@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **everything about Full Stack**
 
-- 📫 How to reach me **jha.rau@northeastern.edu**
+- 📫 Best way to reach me **jha.rau@northeastern.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
